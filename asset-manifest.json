@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/front-end-2/static/css/main.21c9f8ca.chunk.css",
-    "main.js": "/front-end-2/static/js/main.42950c37.chunk.js",
-    "main.js.map": "/front-end-2/static/js/main.42950c37.chunk.js.map",
+    "main.css": "/front-end-2/static/css/main.085a911e.chunk.css",
+    "main.js": "/front-end-2/static/js/main.5d9ca7a6.chunk.js",
+    "main.js.map": "/front-end-2/static/js/main.5d9ca7a6.chunk.js.map",
     "runtime-main.js": "/front-end-2/static/js/runtime-main.fe865a74.js",
     "runtime-main.js.map": "/front-end-2/static/js/runtime-main.fe865a74.js.map",
     "static/css/2.91e4e1b8.chunk.css": "/front-end-2/static/css/2.91e4e1b8.chunk.css",
-    "static/js/2.4e6c8353.chunk.js": "/front-end-2/static/js/2.4e6c8353.chunk.js",
-    "static/js/2.4e6c8353.chunk.js.map": "/front-end-2/static/js/2.4e6c8353.chunk.js.map",
+    "static/js/2.c44efa09.chunk.js": "/front-end-2/static/js/2.c44efa09.chunk.js",
+    "static/js/2.c44efa09.chunk.js.map": "/front-end-2/static/js/2.c44efa09.chunk.js.map",
     "index.html": "/front-end-2/index.html",
-    "precache-manifest.df2d18c16cc31cb31e37de1506dc0a3b.js": "/front-end-2/precache-manifest.df2d18c16cc31cb31e37de1506dc0a3b.js",
+    "precache-manifest.e1a6e8f359df7c267d80c9447092cfd5.js": "/front-end-2/precache-manifest.e1a6e8f359df7c267d80c9447092cfd5.js",
     "service-worker.js": "/front-end-2/service-worker.js",
     "static/css/2.91e4e1b8.chunk.css.map": "/front-end-2/static/css/2.91e4e1b8.chunk.css.map",
-    "static/css/main.21c9f8ca.chunk.css.map": "/front-end-2/static/css/main.21c9f8ca.chunk.css.map",
-    "static/js/2.4e6c8353.chunk.js.LICENSE.txt": "/front-end-2/static/js/2.4e6c8353.chunk.js.LICENSE.txt",
+    "static/css/main.085a911e.chunk.css.map": "/front-end-2/static/css/main.085a911e.chunk.css.map",
+    "static/js/2.c44efa09.chunk.js.LICENSE.txt": "/front-end-2/static/js/2.c44efa09.chunk.js.LICENSE.txt",
     "static/media/HP.png": "/front-end-2/static/media/HP.39a3c997.png",
     "static/media/admin.png": "/front-end-2/static/media/admin.6a46dc20.png",
     "static/media/asus.jpg": "/front-end-2/static/media/asus.15326243.jpg",
@@ -33,7 +33,7 @@
     "static/media/bg3.png": "/front-end-2/static/media/bg3.86bbe252.png",
     "static/media/bg3.jpg": "/front-end-2/static/media/bg3.bb861767.jpg",
     "static/media/bg4.jpg": "/front-end-2/static/media/bg4.8829e749.jpg",
-    "static/media/bg5.png": "/front-end-2/static/media/bg5.fab4fc9c.png",
+    "static/media/bg5.png": "/front-end-2/static/media/bg5.2d64701d.png",
     "static/media/bg6.jpg": "/front-end-2/static/media/bg6.02dfdbd5.jpg",
     "static/media/bg6.png": "/front-end-2/static/media/bg6.29d4c9ba.png",
     "static/media/bg7.jpg": "/front-end-2/static/media/bg7.61e26ad5.jpg",
@@ -105,7 +105,6 @@
     "static/media/ln8.jpg": "/front-end-2/static/media/ln8.38b34c93.jpg",
     "static/media/lol.png": "/front-end-2/static/media/lol.a45332ab.png",
     "static/media/luffy.jpg": "/front-end-2/static/media/luffy.53d6a95a.jpg",
-    "static/media/mac.jpg": "/front-end-2/static/media/mac.2b563cad.jpg",
     "static/media/mac2.jpg": "/front-end-2/static/media/mac2.52229b6d.jpg",
     "static/media/mac3.png": "/front-end-2/static/media/mac3.f94e4fa7.png",
     "static/media/mac4.jpg": "/front-end-2/static/media/mac4.07969ce1.jpg",
@@ -156,6 +155,7 @@
     "static/media/tablet.jpg": "/front-end-2/static/media/tablet.a92cfa13.jpg",
     "static/media/tweet.png": "/front-end-2/static/media/tweet.fd542893.png",
     "static/media/user.png": "/front-end-2/static/media/user.739297c3.png",
+    "static/media/user2.png": "/front-end-2/static/media/user2.80dc2fdf.png",
     "static/media/wheel.png": "/front-end-2/static/media/wheel.7f7fa253.png",
     "static/media/zalo.jpg": "/front-end-2/static/media/zalo.e4d89250.jpg",
     "static/media/zoro.png": "/front-end-2/static/media/zoro.8443d8fe.png"
@@ -163,8 +163,8 @@
   "entrypoints": [
     "static/js/runtime-main.fe865a74.js",
     "static/css/2.91e4e1b8.chunk.css",
-    "static/js/2.4e6c8353.chunk.js",
-    "static/css/main.21c9f8ca.chunk.css",
-    "static/js/main.42950c37.chunk.js"
+    "static/js/2.c44efa09.chunk.js",
+    "static/css/main.085a911e.chunk.css",
+    "static/js/main.5d9ca7a6.chunk.js"
   ]
 }
