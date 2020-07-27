@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/front-end-2/static/css/main.27e9e9c9.chunk.css",
-    "main.js": "/front-end-2/static/js/main.14e6b917.chunk.js",
-    "main.js.map": "/front-end-2/static/js/main.14e6b917.chunk.js.map",
+    "main.css": "/front-end-2/static/css/main.3d839c14.chunk.css",
+    "main.js": "/front-end-2/static/js/main.5b9be024.chunk.js",
+    "main.js.map": "/front-end-2/static/js/main.5b9be024.chunk.js.map",
     "runtime-main.js": "/front-end-2/static/js/runtime-main.fe865a74.js",
     "runtime-main.js.map": "/front-end-2/static/js/runtime-main.fe865a74.js.map",
     "static/css/2.4ac1c015.chunk.css": "/front-end-2/static/css/2.4ac1c015.chunk.css",
-    "static/js/2.fc4ec5ba.chunk.js": "/front-end-2/static/js/2.fc4ec5ba.chunk.js",
-    "static/js/2.fc4ec5ba.chunk.js.map": "/front-end-2/static/js/2.fc4ec5ba.chunk.js.map",
+    "static/js/2.c4fb2909.chunk.js": "/front-end-2/static/js/2.c4fb2909.chunk.js",
+    "static/js/2.c4fb2909.chunk.js.map": "/front-end-2/static/js/2.c4fb2909.chunk.js.map",
     "index.html": "/front-end-2/index.html",
-    "precache-manifest.74e002a156089a4029fa98ed534e05c3.js": "/front-end-2/precache-manifest.74e002a156089a4029fa98ed534e05c3.js",
+    "precache-manifest.f5c8631333f069786a863042234632c1.js": "/front-end-2/precache-manifest.f5c8631333f069786a863042234632c1.js",
     "service-worker.js": "/front-end-2/service-worker.js",
     "static/css/2.4ac1c015.chunk.css.map": "/front-end-2/static/css/2.4ac1c015.chunk.css.map",
-    "static/css/main.27e9e9c9.chunk.css.map": "/front-end-2/static/css/main.27e9e9c9.chunk.css.map",
-    "static/js/2.fc4ec5ba.chunk.js.LICENSE.txt": "/front-end-2/static/js/2.fc4ec5ba.chunk.js.LICENSE.txt",
+    "static/css/main.3d839c14.chunk.css.map": "/front-end-2/static/css/main.3d839c14.chunk.css.map",
+    "static/js/2.c4fb2909.chunk.js.LICENSE.txt": "/front-end-2/static/js/2.c4fb2909.chunk.js.LICENSE.txt",
     "static/media/HP.png": "/front-end-2/static/media/HP.39a3c997.png",
     "static/media/admin.png": "/front-end-2/static/media/admin.6a46dc20.png",
     "static/media/asus.jpg": "/front-end-2/static/media/asus.15326243.jpg",
@@ -163,8 +163,8 @@
   "entrypoints": [
     "static/js/runtime-main.fe865a74.js",
     "static/css/2.4ac1c015.chunk.css",
-    "static/js/2.fc4ec5ba.chunk.js",
-    "static/css/main.27e9e9c9.chunk.css",
-    "static/js/main.14e6b917.chunk.js"
+    "static/js/2.c4fb2909.chunk.js",
+    "static/css/main.3d839c14.chunk.css",
+    "static/js/main.5b9be024.chunk.js"
   ]
 }
