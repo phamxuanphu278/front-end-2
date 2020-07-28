@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/front-end-2/static/css/main.f8559d74.chunk.css",
-    "main.js": "/front-end-2/static/js/main.9bbd88c9.chunk.js",
-    "main.js.map": "/front-end-2/static/js/main.9bbd88c9.chunk.js.map",
+    "main.css": "/front-end-2/static/css/main.613b2837.chunk.css",
+    "main.js": "/front-end-2/static/js/main.8c18f0fb.chunk.js",
+    "main.js.map": "/front-end-2/static/js/main.8c18f0fb.chunk.js.map",
     "runtime-main.js": "/front-end-2/static/js/runtime-main.fe865a74.js",
     "runtime-main.js.map": "/front-end-2/static/js/runtime-main.fe865a74.js.map",
     "static/css/2.4ac1c015.chunk.css": "/front-end-2/static/css/2.4ac1c015.chunk.css",
-    "static/js/2.c714ada7.chunk.js": "/front-end-2/static/js/2.c714ada7.chunk.js",
-    "static/js/2.c714ada7.chunk.js.map": "/front-end-2/static/js/2.c714ada7.chunk.js.map",
+    "static/js/2.fdeeb6d8.chunk.js": "/front-end-2/static/js/2.fdeeb6d8.chunk.js",
+    "static/js/2.fdeeb6d8.chunk.js.map": "/front-end-2/static/js/2.fdeeb6d8.chunk.js.map",
     "index.html": "/front-end-2/index.html",
-    "precache-manifest.e3addb190c0242a7db4a6708b1143d65.js": "/front-end-2/precache-manifest.e3addb190c0242a7db4a6708b1143d65.js",
+    "precache-manifest.8da92391d1e41a6e521c6536d686a35f.js": "/front-end-2/precache-manifest.8da92391d1e41a6e521c6536d686a35f.js",
     "service-worker.js": "/front-end-2/service-worker.js",
     "static/css/2.4ac1c015.chunk.css.map": "/front-end-2/static/css/2.4ac1c015.chunk.css.map",
-    "static/css/main.f8559d74.chunk.css.map": "/front-end-2/static/css/main.f8559d74.chunk.css.map",
-    "static/js/2.c714ada7.chunk.js.LICENSE.txt": "/front-end-2/static/js/2.c714ada7.chunk.js.LICENSE.txt",
+    "static/css/main.613b2837.chunk.css.map": "/front-end-2/static/css/main.613b2837.chunk.css.map",
+    "static/js/2.fdeeb6d8.chunk.js.LICENSE.txt": "/front-end-2/static/js/2.fdeeb6d8.chunk.js.LICENSE.txt",
     "static/media/HP.png": "/front-end-2/static/media/HP.39a3c997.png",
     "static/media/admin.png": "/front-end-2/static/media/admin.6a46dc20.png",
     "static/media/asus.jpg": "/front-end-2/static/media/asus.15326243.jpg",
@@ -39,6 +39,7 @@
     "static/media/bg7.jpg": "/front-end-2/static/media/bg7.61e26ad5.jpg",
     "static/media/camera.png": "/front-end-2/static/media/camera.337f3fa3.png",
     "static/media/car.png": "/front-end-2/static/media/car.b61aea22.png",
+    "static/media/cart-empty.png": "/front-end-2/static/media/cart-empty.f049ca7d.png",
     "static/media/HomeService.scss": "/front-end-2/static/media/sky.9d97b225.jpg",
     "static/media/dell.png": "/front-end-2/static/media/dell.410e1ddd.png",
     "static/media/dell1.jpg": "/front-end-2/static/media/dell1.170341a5.jpg",
@@ -163,8 +164,8 @@
   "entrypoints": [
     "static/js/runtime-main.fe865a74.js",
     "static/css/2.4ac1c015.chunk.css",
-    "static/js/2.c714ada7.chunk.js",
-    "static/css/main.f8559d74.chunk.css",
-    "static/js/main.9bbd88c9.chunk.js"
+    "static/js/2.fdeeb6d8.chunk.js",
+    "static/css/main.613b2837.chunk.css",
+    "static/js/main.8c18f0fb.chunk.js"
   ]
 }
